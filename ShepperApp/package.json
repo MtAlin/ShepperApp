@@ -1,0 +1,11 @@
+{
+  "name": "shepper-app",
+  "private": true,
+  "workspaces": [
+    "shepherd-planner-ui",
+    "shepherd-planner-backend"
+  ],
+  "scripts": {
+    "build": "cd shepherd-planner-ui && npm run build"
+  }
+}
