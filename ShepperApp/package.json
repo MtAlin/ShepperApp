@@ -1,6 +1,7 @@
 {
   "name": "shepper-app",
   "private": true,
+  "type": "module",
   "workspaces": [
     "shepherd-planner-ui",
     "shepherd-planner-backend"
